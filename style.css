@@ -71,18 +71,21 @@
             }
             #rodape{
                 display: inline-block;
-				                margin-top: 100px;
+                margin-top: 100px;              
 				
             }
-            #rodape
+            #rodape img
             {
                 width: 100%;
+                margin-top: 40px;
             }
             
             #rodape h1, h4
             {
                 font-family: "Karla";
                 color:rgb(200,200,200);
+                
+               
             }
             
             #rodape td
@@ -90,4 +93,4 @@
                 width:400px;
                 font-family: "Karla";
             }
-            
+           
